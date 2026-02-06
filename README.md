@@ -22,13 +22,3 @@ The project focuses on correctness, simplicity, and clean financial logic.
 - **Storage:** In-memory / File-based / Database  
 - **Design:** Modular and easy to extend  
 
-## 📂 Project Structure
-
-```text
-bank-account-manager/
-├── accounts/
-├── transactions/
-├── services/
-├── utils/
-├── main/
-└── README.md
