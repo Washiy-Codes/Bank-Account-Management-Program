@@ -20,5 +20,9 @@ The project focuses on correctness, simplicity, and clean financial logic.
 
 - **Language:** *(e.g., Java / Python / JavaScript)*  
 - **Storage:** In-memory / File-based / Database  
-- **Design:** Modular and easy to extend  
+- **Design:** Modular and easy to extend
+
+## 🚀 Live Demo
+ [Bank Account Management App](  https://washiy-codes.github.io/Cash-Register/)
+
 
