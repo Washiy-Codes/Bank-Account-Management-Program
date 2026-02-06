@@ -23,6 +23,6 @@ The project focuses on correctness, simplicity, and clean financial logic.
 - **Design:** Modular and easy to extend
 
 ## 🚀 Live Demo
- [Bank Account Management App](  https://washiy-codes.github.io/Cash-Register/)
+ [Bank Account Management App]( https://washiy-codes.github.io/Bank-Account-Management-Program/)
 
 
