@@ -2,6 +2,10 @@
 
 A simple and reliable bank account management system built to handle everyday banking operations with clarity and control.
 
+## 📸 Preview
+
+---
+
 ## 🚀 Overview
 
 **Bank Account Manager** allows users to create and manage bank accounts, perform transactions, and track balances efficiently.  
