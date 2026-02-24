@@ -3,6 +3,7 @@
 A simple and reliable bank account management system built to handle everyday banking operations with clarity and control.
 
 ## 📸 Preview
+![Bank-Account-Management-APP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEaI3NbHmhK3FSS_MZM_lThCzuSeJDJyDFg&s)
 
 ---
 
